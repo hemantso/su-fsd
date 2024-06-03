@@ -33,10 +33,10 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Deployment
 
-The application is deployed using Vercel. QA and Demo/Stage environments have been set up for testing.
+The application is deployed using Vercel.Demo/Stage and Production environments have been set up for testing.
 
-- QA Environment: [Link](#)
-- Demo/Stage Environment: [Link](#)
+- Demo/Stage Environment: [Link](https://su-fsd-stage.vercel.app/)
+- Production Environment: [Link](https://su-lhvh4x24v-hemantsos-projects.vercel.app/)
 
 ## How to Contribute
 
